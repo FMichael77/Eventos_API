@@ -2,7 +2,7 @@
 
 API desenvolvida em **Django REST framework** voltada para organização e participação de eventos.
 
-##Configuração do ambiente
+## Configuração do ambiente
 
 **Instalar:**  
 pip install drf-yasg
