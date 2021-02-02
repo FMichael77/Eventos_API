@@ -1,5 +1,5 @@
 # Eventos_API  
-API desenvolvida em **Django REST framework** voltada para organização e participação de eventos.
+API desenvolvida em **Django REST framework** voltada para organização e participação em eventos.
 
 ## Configuração do ambiente  
 **Instalar:**  
