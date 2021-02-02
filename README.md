@@ -6,7 +6,8 @@ API desenvolvida em **Django REST framework** voltada para organização e parti
 pip install djangorestframework  
 pip install django-filter  
 pip install drf-yasg  
-pip install django-crispy-forms  
+pip install django-crispy-forms
+
 **Iniciar o servidor:**  
 python manage.py runserver
 
